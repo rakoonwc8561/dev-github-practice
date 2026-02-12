@@ -1,3 +1,2 @@
 # dev-github-practice
-
-## sspark 20:36
+# 세라 커밋 테스트
